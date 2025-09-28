@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    background: url('environmenthd.jpg');
+    background: url('/environmenthd.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
